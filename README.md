@@ -1,0 +1,2 @@
+# CloseAGI.github.io
+blog
